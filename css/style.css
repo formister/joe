@@ -1,0 +1,67 @@
+/*----------------------common-------------------------*/
+*{
+	margin:0;
+	padding:0;
+	font-family:Microsoft YaHei;
+	text-align: center;
+}
+.clear{ clear:both;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+a:hover{ text-decoration:underline;}
+li{ list-style-type:none;}
+.ofh{overflow:hidden;}
+.center{ text-align:center;}
+.em{ text-indent:2em;}
+.p5{ padding:5px;}
+body{ background:url(../images/600px-TyLoo_2016_allmode.jpg) top center fixed no-repeat;}
+
+/*----------------------con-------------------------*/
+.con{ width:960px; padding:20px; height:auto; margin:10px auto; background:#fff; background-color:rgba(255,255,255,0.9);-moz-border-radius:10px;border-radius:10px;}
+/*----------------head-----------------*/
+.head{
+	width:960px;
+	height:auto;
+	margin:auto;
+	text-align: left;
+}
+.logo{ width:550px; height:60px; float:left;}
+.logo h1{ font-size:32px; line-height:60px; color:#cf1717; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif}
+
+
+.nav{ width:960px; height:40px; margin:5px auto;background-color:#0d3d5c;-moz-border-radius:5px;border-radius:5px;}
+.nav ul{ padding-left:10px;}
+.nav li{ float:left; padding:5px 30px; }
+.nav li a{ font-size:20px; line-height:30px; color:#eee; font-family:"Courier New", Courier, monospace;}
+.nav li a:hover{ color:#f9eccd; text-decoration:none;}
+.nav li:hover{ background-color:#071465}
+.nav li:hover a{ color:#f9eccd;}
+
+.lunbo{ width:960px; height:600px; margin:5px auto; overflow:hidden;-moz-border-radius:5px;border-radius:5px;}
+
+.banner{ width:960px; height:250px; margin:5px auto; overflow:hidden;-moz-border-radius:5px;border-radius:5px;}
+
+
+/*----------------main-----------------*/
+.main{ width:860px; padding:10px 50px; height:auto; margin:10px auto; font-size:14px; line-height:24px; color:#555;}
+.main h2{font-size:18px; line-height:46px; color:#071465;}
+.main h2 a{font-size:18px; line-height:36px; color:#071465;}
+.main p{font-size:14px; line-height:24px; color:#555; text-indent:2em;}
+
+
+ .main_in{ width:660px; height:auto; margin:10px auto; font-size:14px; line-height:24px; color:#555;}
+
+.position{ width:960px;height:40px; border-bottom:2px solid #071465; font-size:16px; color:#400; line-height:38px; font-family:Microsoft YaHei; font-weight:bold;}
+.position a{ font-size:16px; color:#111; line-height:28px; font-family:Microsoft YaHei;}
+.position span{ padding:3px;font-size:16px; color:#111; line-height:28px; font-family:Microsoft YaHei;}
+
+
+
+
+
+
+/*----------------foot-----------------*/
+.foot{ width:960px; height:50px; margin:10px auto; padding-top:10px; border-top:3px solid #0d3d5c; text-align:center; font-size:14px; line-height:24px; color:#666;}
+.foot{font-size:14px; line-height:24px; color:#666;}
